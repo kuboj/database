@@ -104,6 +104,7 @@ class Chef
             :drop,
             :references,
             :index,
+            :grant,
             :alter,
             :create_tmp_table,
             :lock_tables,
